@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="localhost" description="Rundeck server node" tags="" hostname="localhost" osArch="amd64" osFamily="unix" osName="Linux" osVersion="5.13.0-44-generic" username="cristian"/>
+  <node name="node1" description="Centos Targer Node" tags="" hostname="192.168.1.50" osArch="amd64" osFamily="unix" osName="Linux" osVersion="5.13.0-44-generic" username="vagrant"/>
+  <node name="node2" description="Centos Targer Node" tags="" hostname="192.168.1.51" osArch="amd64" osFamily="unix" osName="Linux" osVersion="5.13.0-44-generic" username="vagrant"/>
+</project>
